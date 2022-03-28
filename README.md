@@ -1,5 +1,5 @@
-## Learning references:
-- https://www.bezkoder.com/react-hooks-crud-axios-api/
+<!-- ## Learning references:
+- https://www.bezkoder.com/react-hooks-crud-axios-api/ -->
 
 # Getting Started with Create React App
 
