@@ -23,7 +23,7 @@ const findByName = name => {
     return http.get(`/books?name=${name}`);
 };
 
-export default {
+const logger = {
     getAll,
     get,
     create, 
@@ -32,3 +32,4 @@ export default {
     removeAll,
     findByName
 }
+export default logger;
