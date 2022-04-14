@@ -1,5 +1,5 @@
 # client-bookshelf-api
-My React JS Client App CRUD experiment using my Backend Bookshelf API with Hapi Framework & Postman Automation from Bangkit that I uploaded it to Heroku..
+My React JS Client App CRUD experiment using my Backend Bookshelf API with Hapi Framework & Postman Automation from Bangkit that I uploaded it to Heroku server
 
 <!-- ## Learning references:
 - https://www.bezkoder.com/react-hooks-crud-axios-api/ -->
